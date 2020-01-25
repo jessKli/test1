@@ -1,2 +1,2 @@
-# test1
-Bara lite text
+// Starta m kommando:
+./mvnw spring-boot:run
